@@ -4,6 +4,6 @@ The Piracy Preservation System is designed to enhance user privacy protection in
 
 # Features:
 ```Secure Start & End Points: Prevents unauthorized tracking by generating protected trajectory points.```
-Dummy Trajectory Generation: Creates k-1 alternative paths to maintain user anonymity.
-Reduced Data Loss: Ensures minimal information distortion while safeguarding privacy.
-Scalable & Efficient: Optimized for real-world implementation with minimal computational overhead.
+```Dummy Trajectory Generation: Creates k-1 alternative paths to maintain user anonymity.```
+```Reduced Data Loss: Ensures minimal information distortion while safeguarding privacy.```
+```Scalable & Efficient: Optimized for real-world implementation with minimal computational overhead.```
